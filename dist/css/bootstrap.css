@@ -10205,7 +10205,12 @@ textarea.form-control-lg {
   }
 }
 .card {
-  font-family: "Dancing Script", cursive;
+  font-family: "Montez", cursive;
+  font-size: 1rem;
+}
+
+.card-title {
+  color: #cf649a;
 }
 
 .color-card, .card-body {
