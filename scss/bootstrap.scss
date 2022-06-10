@@ -54,19 +54,25 @@
 
 .card {
     font-family: 'Montez', cursive;
-    font-size: 1rem;
+    font-size: 1.3rem;
 }
+
 .card-title {
     color: $purple;
+    font-size: 1.8rem;
 }
+
 .color-card {
     background-color: $dark;
     color: $light;
 }
+
 .card-body {
     @extend .color-card
 }
+
 div .btn {
     background-color: $purple;
     color: $light;
+    font-size: 1.3rem;
 }

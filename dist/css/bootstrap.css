@@ -10206,11 +10206,12 @@ textarea.form-control-lg {
 }
 .card {
   font-family: "Montez", cursive;
-  font-size: 1rem;
+  font-size: 1.3rem;
 }
 
 .card-title {
   color: #cf649a;
+  font-size: 1.8rem;
 }
 
 .color-card, .card-body {
@@ -10221,6 +10222,7 @@ textarea.form-control-lg {
 div .btn {
   background-color: #cf649a;
   color: #f8f9fa;
+  font-size: 1.3rem;
 }
 
 /*# sourceMappingURL=bootstrap.css.map */
